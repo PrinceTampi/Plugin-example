@@ -22,7 +22,7 @@ Periksa versinya dari PowerShell:
 
 ### 2. Masuk ke folder project
 
-Jalankan dari folder `D:\DAW`:
+Jalankan dari folder :
 
 ```powershell
 cd .\custom-portal
